@@ -107,6 +107,7 @@ You keep full control — just like it should be.
 - [Magisk Modules Alt Repo](https://github.com/Magisk-Modules-Alt-Repo) – *open_webview*
 - [e.foundation](https://e.foundation) – Privacy-first mobile OS & captive portal
 - [Kuketz Blog](https://www.kuketz-blog.de) – Trusted security research and captive portal fallback
+- [Mental Outlaw](https://www.youtube.com/watch?v=E1U5qoiR1fM) - How to De-Google LineageOS
 
 ---
 
