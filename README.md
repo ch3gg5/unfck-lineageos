@@ -102,7 +102,7 @@ You stay in control
 
 - [Atrate](https://github.com/Atrate) – *Magisk-Captive-Control*
 - [PlqnK](https://github.com/PlqnK) – *magisk-supl-replacer*
-- [Magisk Modules Alt Repo](https://github.com/Magisk-Modules-Alt-Repo) – *open_webview*
+- [Magisk Modules Alt Repo](https://github.com/Magisk-Modules-Alt-Repo) – *open_webview, updated supl replacer*
 - [e.foundation](https://e.foundation) – Privacy-first OS & captive portal
 - [Kuketz Blog](https://www.kuketz-blog.de) – Security research and fallback portal
 - [Mental Outlaw](https://www.youtube.com/watch?v=E1U5qoiR1fM) – How to De-Google LineageOS
