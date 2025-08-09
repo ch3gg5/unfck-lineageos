@@ -76,8 +76,6 @@ Also compatible with:
    Choose: **Cromite**, **Vanadium**, or **Mulch**
 4. 🔁 Reboot your device
 
-> ⚠️ After OTA updates, some settings may reset. Consider scripting the captive portal commands.
-
 ---
 
 ## 🛡️ Why This Matters
