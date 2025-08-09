@@ -40,10 +40,10 @@ No more reliance on Google’s time servers.
 ---
 
 ### 📡 SUPL (Location) Server
-Replaces Google’s SUPL server with **Librem 5’s neutral host**:
+Replaces Google’s SUPL server with **Grapheneos's neutral host**:
 
 ```shell
-SUPL_HOST=nip.ntfp.org
+SUPL_HOST=supl.grapheneos.org
 ```
 
 Improves privacy for A-GPS and network-assisted location, no more tracking via location services.
@@ -70,11 +70,12 @@ Also compatible with:
 
 1. ✅ Install [Magisk](https://github.com/topjohnwu/Magisk) or [KernelSU](https://github.com/tiann/KernelSU)
 2. 🔽 Download modules from:  
-   [👉 Latest Release on GitHub](https://github.com/ch3gg5/unfck-lineageos/releases/latest)
-3. 🔽 Install a de-Googled WebView:  
+   [👉 Latest Captive Portal Release on GitHub](https://github.com/ch3gg5/unfck-lineageos/releases/latest)
+   [👉 Latest Supl Replacer Release on GitHub](https://github.com/Magisk-Modules-Alt-Repo/supl-replacer/releases)
+4. 🔽 Install a de-Googled WebView:  
    - [open_webview (Magisk Modules Alt Repo)](https://github.com/Magisk-Modules-Alt-Repo/open_webview)  
    Choose: **Cromite**, **Vanadium**, or **Mulch**
-4. 🔁 Reboot your device
+5. 🔁 Reboot your device
 
 ---
 
